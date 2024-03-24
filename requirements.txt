@@ -1,8 +1,0 @@
-streamlit
-plotly.express
-pandas
-os
-warning
-matplotlib.pyplot
-BeautifulSoup
-requests
